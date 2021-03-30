@@ -173,3 +173,4 @@ if __name__ == '__main__':
          print("[!] Bir Hata Oluştu.")
          exit(1)
    else:
+         print("[!] Bilinmeyen seçim.")
